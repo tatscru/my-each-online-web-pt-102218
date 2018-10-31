@@ -7,5 +7,5 @@ while i < array.length
     i = i + 1
   it is now repeating over each element within an array 
  end
-  # array
+  array
 end 
