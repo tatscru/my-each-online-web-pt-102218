@@ -1,6 +1,6 @@
 def my_each(array)
   i = 0 
-while i < array.length 
+  while i < array.length 
   # it is iterating the amount of items within an array- whatever is it = .length
     yield array[i]
   # call/grab, pass through, each element within the array 
