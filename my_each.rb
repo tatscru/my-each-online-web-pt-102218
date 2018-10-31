@@ -8,4 +8,5 @@ def my_each(array)
   # it is now repeating over each element within an array 
  end
   array
+  # does not modify the original array, that is why we have to call it again-- not modifying it by each 
 end 
